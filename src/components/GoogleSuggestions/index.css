@@ -1,0 +1,38 @@
+.img {
+  width: 320px;
+  height: 100px;
+  margin-left: 40px;
+}
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.search-container {
+  min-height: 100%;
+  margin-top: 20px;
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 10px;
+  min-width: 40vw;
+}
+.bar-cont {
+  display: flex;
+  flex-direction: row;
+  padding: 7px;
+}
+.search-bar {
+  border-width: 0px;
+  outline: none;
+  margin-left: 10px;
+  width: 30vw;
+  height: 20px;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+ul {
+  text-align: left;
+  margin-right: 10px;
+}
